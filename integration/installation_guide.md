@@ -17,7 +17,7 @@ The CDP Service needs to maintain an endpoint `/v2/events` on the base URL provi
 1. Read the necessary access requirements and click **Continue**.
 1. Configure the integration using the following fields:
    * **CDP API Key** - The API key used to call the CDP service.
-   * **Service Tenant Domain** - The base URL of the the CDP service. Defaults to `https://api.example.com/`.
+   * **Service Tenant Domain** - The base URL of the CDP service. Defaults to `https://api.example.com/`.
 1. Click **Create** to add the integration to your Library.
 1. Click the **Add to flow** link on the pop-up that appears.
 1. Drag the Action into the desired location in the flow.
